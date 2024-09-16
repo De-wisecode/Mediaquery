@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../MY HTML TUTORIAL"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "wisdomheader"
+	}
+}
